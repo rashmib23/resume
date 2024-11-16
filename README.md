@@ -8,7 +8,7 @@ rashmib5664@gmail.com | github.com/rashmib23
 ___
 **Skills** :<br>
 Programming Languages:<br>
-c,java,python,sql
+c,java,python,sql,c++
 ___
 **Education** :<br>
 BE-CSE ,MSRIT,Benglore|Expected 2026 <br>
